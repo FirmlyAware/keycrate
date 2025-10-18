@@ -3,7 +3,7 @@
 > The ultimate reference app for shortcuts, commands, and developer tools.
 
 ![Version](https://img.shields.io/badge/version-1.1.0-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+![License](https://img.shields.io/badge/license-CC%20BY--NC%204.0-orange.svg)
 ![React](https://img.shields.io/badge/React-18+-61DAFB.svg)
 
 ## Overview
@@ -156,9 +156,19 @@ Contributions are welcome! Here's how you can help:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
 
-**Note:** For commercial use, please contact the repository owner.
+**You are free to:**
+- Use, share, and modify for personal and educational purposes
+- Fork and adapt the code for non-commercial projects
+
+**You must:**
+- Give appropriate credit to the original author
+- Not use this project for commercial purposes without explicit written permission
+
+For commercial licensing inquiries, please contact FirmlyAware via GitHub.
+
+See the [LICENSE](LICENSE) file for full details.
 
 ## Acknowledgments
 
