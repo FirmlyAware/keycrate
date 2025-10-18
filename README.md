@@ -32,17 +32,32 @@ KeyCrate is a comprehensive, interactive reference application designed for deve
 
 ## Installation
 
-### Prerequisites
+### 🖥️ Desktop App (Recommended)
 
+**Windows:**
+1. Download the latest release: [KeyCrate-Setup-v1.1.0.exe](https://github.com/FirmlyAware/keycrate/releases)
+2. Run the installer
+3. Launch from Start Menu or Desktop
+4. Press **Ctrl+Alt+K** anywhere to show/hide KeyCrate
+
+**Features:**
+- ⚡ Native performance
+- ⌨️ Global keyboard shortcut
+- 📦 System tray integration
+- 🔄 Auto-updates
+- 🔒 Works offline
+
+### 🌐 Web Development
+
+**Prerequisites:**
 - Node.js 16+ and npm
-- Modern web browser (Chrome, Firefox, Edge, Safari)
+- Modern web browser
 
-### Setup
-
+**Setup:**
 1. Clone the repository:
 ```bash
 git clone https://github.com/FirmlyAware/keycrate.git
-cd keycrate
+cd keycrate-app
 ```
 
 2. Install dependencies:
@@ -56,6 +71,13 @@ npm start
 ```
 
 4. Open your browser to `http://localhost:3000`
+
+**Build for desktop:**
+```bash
+npm run electron:build:win    # Windows
+npm run electron:build:mac    # macOS
+npm run electron:build:linux  # Linux
+```
 
 ## Usage
 
