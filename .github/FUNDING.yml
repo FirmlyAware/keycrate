@@ -1,16 +1,19 @@
 # GitHub Sponsors & Donation Options
 # https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-supporter-button-in-your-repository
 
-# Uncomment and add your usernames/links as needed:
+# When you're ready, uncomment and add your username/info:
 
-# GitHub Sponsors
+# GitHub Sponsors (recommended - 0% fees, most professional)
 # github: FirmlyAware
 
-# Other platforms (choose what works for you):
-# patreon: your_username
-# ko_fi: your_username
-# buy_me_a_coffee: your_username
-# paypal: your_paypal_email_or_link
+# Ko-fi (easiest to start - 0% fees, 5 min setup)
+# ko_fi: your_kofi_username
 
-# Custom donation link
-# custom: ['https://your-donation-link.com']
+# Buy Me a Coffee (alternative option - 5% fee)
+# buy_me_a_coffee: your_username
+
+# Instructions:
+# 1. Sign up at ko-fi.com (fastest option)
+# 2. Get your username (e.g., ko-fi.com/yourname)
+# 3. Uncomment the line above and replace "your_kofi_username"
+# 4. Commit and push - the Sponsor button appears automatically!
