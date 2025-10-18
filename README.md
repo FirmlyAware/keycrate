@@ -176,11 +176,17 @@ See the [LICENSE](LICENSE) file for full details.
 - Inspired by various productivity tools and shortcut reference apps
 - Built with ❤️ for developers by developers
 
-## Support
+## Support & Donations
 
-- Report bugs via [GitHub Issues](https://github.com/FirmlyAware/keycrate/issues)
-- Feature requests welcome through issues or in-app feedback form
-- Star ⭐ this repo if you find it helpful!
+**Found KeyCrate helpful?**
+- Star ⭐ this repository
+- Share it with fellow developers
+- Consider sponsoring development (see the "Sponsor" button above)
+
+**Report Issues:**
+- Bug reports: [GitHub Issues](https://github.com/FirmlyAware/keycrate/issues)
+- Security vulnerabilities: See [SECURITY.md](SECURITY.md)
+- Feature requests: Use GitHub Issues or in-app feedback form
 
 ## Author
 
