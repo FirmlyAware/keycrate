@@ -11,6 +11,14 @@ node_modules/
 /build
 /dist
 
+# Electron builds
+/release
+*.exe
+*.dmg
+*.AppImage
+*.deb
+*.snap
+
 # Misc
 .DS_Store
 .env

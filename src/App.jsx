@@ -2,7 +2,7 @@
 import React, { useState, useEffect } from 'react';
 import { Search, Wrench, ListChecks, MessageSquare, Send, AlertTriangle, Check, Copy, PlusSquare, BookOpen, X, Minimize, Maximize } from 'lucide-react';
 
-import showroomData from './data/showroomData';
+import showroomData from './data/showroomData.jsx';
 import Key from './components/Key';
 import TooltipButton from './components/TooltipButton';
 import WorkflowExample from './components/WorkflowExample';
