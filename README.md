@@ -12,7 +12,7 @@ KeyCrate is a comprehensive, interactive reference application designed for deve
 
 ## Features
 
-- **Shortcut Bible** - Comprehensive categorized lists of Windows, application, and system shortcuts
+- **Shortcut Bible** - Comprehensive categorised lists of Windows, application, and system shortcuts
 - **Custom Shortcut Creator** - Design and save your own global shortcuts
 - **Productivity Toolbox** - Floating, draggable palette for your favorite shortcuts and commands
 - **Command Reference** - Extensive database of CLI commands for:
