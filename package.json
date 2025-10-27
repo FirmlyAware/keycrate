@@ -43,7 +43,7 @@
     "eslint-plugin-react-hooks": "^7.0.0",
     "postcss": "^8.4.31",
     "tailwindcss": "^4.1.15",
-    "vite": "^7.1.11",
+    "vite": "^7.1.12",
     "wait-on": "^9.0.1"
   },
   "main": "electron/main.js",
