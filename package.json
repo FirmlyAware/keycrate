@@ -42,7 +42,7 @@
     "eslint-plugin-react": "^7.33.2",
     "eslint-plugin-react-hooks": "^7.0.0",
     "postcss": "^8.4.31",
-    "tailwindcss": "^4.1.15",
+    "tailwindcss": "^4.1.16",
     "vite": "^7.1.11",
     "wait-on": "^9.0.1"
   },
